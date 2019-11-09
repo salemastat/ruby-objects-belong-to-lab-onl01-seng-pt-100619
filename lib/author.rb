@@ -4,4 +4,3 @@ class Athor
  
 end   
 
-author = Author.new
