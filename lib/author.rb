@@ -1,4 +1,4 @@
-class Athor 
+class Author 
   
    attr_accessor :name
  
